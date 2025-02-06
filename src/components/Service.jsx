@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-scroll'
-import cctv from '../assets/cctv.jpg'
+import cctv from '../assets/CCTV.jpg'
 import Networking from '../assets/Networking.jpg'
 import SplashCursor from './SplashCursor'
 
